@@ -13,7 +13,6 @@ public class GoBabbyApp
     public static void main(String[] args)
     {
 
-        connect();
 
         while(true)
         {
